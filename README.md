@@ -8,4 +8,8 @@ Es ist ein textbasiertes Spiel, d. h. ohne grafische Oberfläche.
 A randomly selected (German) word is changed to create a random sequence of letters.<br>
 The aim is to recognize the word. To help you, you can ask whether a certain sequence of letters appears in the word. If you run out of patience, you can also simply have the solution displayed.<br>
 You can adjust the level of difficulty by changing the minimum and maximum length of the word.<br>
-It is a text-based game, i.e. without a graphical interface.
+It is a text-based game, i.e. without a graphical interface.<br>
+<br>
+<br>
+
+![screenshot](Screenshot_wortsalat_terminal.jpg)
