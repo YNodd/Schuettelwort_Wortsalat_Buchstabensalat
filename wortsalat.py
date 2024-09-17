@@ -6,7 +6,7 @@ minlength = 4
 maxlength = 11  # the maximum length could be reduced to make the game easier
 
 # build a list with the possible words, from a csv file
-dict_file = "Wortsalat-Dictionnaire.csv"
+dict_file = "Wortsalat_woerterliste.csv"
 dict_list = []
 with open(dict_file, "r") as readfile:
     for singlerow in readfile:
